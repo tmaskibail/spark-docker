@@ -1,0 +1,5 @@
+pyarrow==16.1.0
+pyspark==3.5.5
+ipython
+pandas
+numpy
